@@ -1,9 +1,3 @@
-Awesome — this project **deserves a strong README**.
-Below is a **clean, recruiter-ready, copy-paste README.md** written exactly the way data analysts are expected to present case studies.
-
-You can paste this directly into `README.md`.
-
----
 
 # 📦 QuickBite Express – Crisis Recovery Data Analysis
 
