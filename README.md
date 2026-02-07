@@ -27,7 +27,7 @@ Use **SQL + Python (EDA)** to analyze business data and provide **actionable ins
 
 * **Database:** MySQL
 * **Querying:** SQL
-* **Analysis:** Python (pandas, matplotlib)
+* **Analysis:** Python (pandas, matplotlib, seaborne)
 * **Environment:** VS Code + Jupyter Notebook
 
 ---
